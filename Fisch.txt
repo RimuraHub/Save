@@ -1,7 +1,8 @@
 script_key="";
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Loader"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/ZenithHub/refs/heads/main/Loader"))()
 
-https://apkpure.com/kiwi-browser-fast-quiet/com.kiwibrowser.browser
-https://apkpure.com/gboard-the-google-keyboard/com.google.android.inputmethod.latin
+https://apkpure.com/kiwi-browser-fast-quiet/com.kiwibrowser.browser/downloading
+https://apkpure.com/gboard-the-google-keyboard/com.google.android.inputmethod.latin/downloading
 https://deltaexploits.gg/android_dl
