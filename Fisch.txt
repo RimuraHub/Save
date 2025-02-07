@@ -6,3 +6,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/ZenithHub/ref
 https://apkpure.com/kiwi-browser-fast-quiet/com.kiwibrowser.browser/downloading
 https://apkpure.com/gboard-the-google-keyboard/com.google.android.inputmethod.latin/downloading
 https://deltaexploits.gg/android_dl
+
+https://discord.com/api/webhooks/1336347128808734863/nta1JOXuS-yEOBEZOt3PdjoKYMYRLqQnpZJ8MJy3RC068cqeaCCzZH44GIjjwx327AWW
